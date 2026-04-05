@@ -1,0 +1,65 @@
+# CHAPTER.006 — Contagion
+
+The barangay hall in Pansol had plastic chairs and a microphone that squealed when you stood too close to the speaker.  The room was government-issued in every detail.  Fluorescent lights, a Philippine flag on a stand, a folding table at the front for the officials.  The men in the chairs wore blue shirts.  Surrenderees.  The blue identified them the way the masks identified the officers on the six-wheeled vehicles, except the blue was meant to mark compliance and the masks were meant to erase identity.  The room was packed.  Men sat shoulder to shoulder in rows that went back farther than I expected.  Some stood along the walls.  The air had the weight of too many bodies in a space designed for municipal meetings about drainage and zoning.
+
+The government organized these meetings.  The same apparatus that ran Tokhang, that compiled the watch lists, that sent the six-wheeled vehicles into neighborhoods between ten at night and four in the morning, was now convening recovery sessions in barangay halls and seating the survivors in plastic chairs.  The state that created the problem was hosting the solution.  The officers who drove the vehicles stood along the walls of the same room where the men they had processed sat in rows.  There was no separation between the machinery of the hard way and the practice of the most excellent way.  They shared a building and a budget and a government seal on the wall.  I remember looking at the officers along the walls and the surrenderees in the chairs and thinking: six months ago one of these groups was dragging the other out of their houses at two in the morning.  Now they shared a room and a microphone and a government seal.
+
+The format was The Most Excellent Way.  Scripture as the backbone.  The beatitudes as the framework.  Blessed are the poor in spirit.  Blessed are those who mourn.  Blessed are the meek.  I had read those words in churches in Salem Heights where they sounded like aspirations, virtues you were supposed to cultivate, spiritual goals on a checklist.  In a barangay hall full of surrenderees they were not aspirations.  They were descriptions.  The men in the blue shirts were the poor in spirit.  They were the ones who mourned.  They were the meek.  The beatitudes were not telling them what to become.  The beatitudes were telling them what they already were and that what they already were was blessed.  That word landed in that room like a detonation.  Blessed.  Men who had been told by their own government that they were unfixable, that they were a logistics problem, that the best solution for them was the farm or the bullet or the cell — those men were hearing that their poverty of spirit was not a deficiency.  It was the qualification.
+
+We had Tagalog materials.  Salem Heights Church made them and donated them to the ministry.  James translated them.  Scripture-based sessions, thirty to forty-five minutes each, built around themes: identity, victory, defeat, death, addiction, transformation.  Grounded in the premise that identity in Christ defeats death and addiction and the hard way and transforms lives.  We brought them on a USB stick that I uploaded to SharePoint, but they were downloaded and printed before we left the States.  Physical pages.  Tagalog.  Something any peer leader could pick up and run a session with after we flew home.  The honesty was ours.  The materials were transferable.  That combination is what made it contagion.
+
+The program was called the Moral Recovery Program.  The city would build it into something larger — Sipag at Tiyaga, Diligence and Perseverance, the signature community-based drug rehabilitation program that became Calamba's answer to the hard way.  It had a name and a document and an MOA signed on November 7, 2018, at the Eduardo Barretto Sr. Elementary School Quadrangle in Barangay Pansol.  RCGGM adopted the school.  That gave it a permanent home.  But the program was not the document.  The program was what happened in the room when someone stood at the front and told the truth.
+
+We went to at least four barangay meetings.  Pansol, Mayapa, others I cannot name with certainty because the rooms started to blend.  The same plastic chairs.  The same fluorescent lights.  The same blue shirts.  The format did not change because the message did not change.  Jesus is the solution.  Hope endures.  Nobody is too lost.  We said it in Pansol and said it in Mayapa and said it in rooms I remember by their walls and their heat and the faces in them but not by their official names.  The room got bigger but the words did not change.
+
+The call went out in every room.  The same call we had made in the holding cells.  The same invitation.  And in every room, the hands went up.
+
+Then the officers raised theirs.
+
+I watched it happen and I did not expect it and I should have.  The chief had told us the killing was destroying his men.  He said it in the conference room like a man describing structural damage.  Not emotional damage, not moral damage — structural.  The machine was breaking the people who operated it.  His officers were carrying out Tokhang and the weight of what they were doing was cracking them in places they did not have language for.  And when the call went out in the barangay hall, the officers standing along the walls raised their hands the same way the surrenderees did.  The same way the men behind the bars did.  The same way the students at Bucal did.
+
+Police officers.  The ones carrying out the hard way.  Reaching.
+
+Nobody is broken beyond fix includes the ones holding the gun.  That is not a metaphor.  That is not a theological abstraction.  That is a man in uniform standing in the back of a room full of men he has processed through a system designed to destroy them, raising his hand because the system is destroying him too and someone just offered him something other than the hard way.
+
+---
+
+I led a call once.  One time.  They handed me the microphone and I stood at the front of a room full of blue shirts and I made the call and the room responded.
+
+The response was powerful.  I felt it immediately.  The room moved toward me the way a room moves toward the person holding the mic when the words coming through it are true.  I felt every face in that room turn and I felt the energy of their attention gather into a single point and that point was me.  The hands went up and the sound in the room changed and for a moment I was the center of something larger than myself.
+
+I recognized it.
+
+I recognized it because I had felt it before.  Not in a church.  Not in a ministry.  I had felt it dealing.  The same electricity.  The same rush of having a room respond to you, of being the person everyone looks at, of controlling the energy of a space full of people.  When you deal, a neighborhood depends on you.  When you hold the mic and make the call and the hands go up, a room depends on you.  The power is the same power.  The substance is different but the high is identical.
+
+I was afraid of it.  I say that plainly because a former addict who does not recognize a new addiction is a former addict who is about to relapse.  The most excellent way has its own trap door and I was standing on it.  The mic is the trap.  The response of the room is the trap.  The feeling that you are the one doing the healing, that you are the instrument, that without you the room would not have moved — that feeling is the trap.  It is the same feeling that kept me dealing long after the money stopped mattering.  The money was the excuse.  The power was the drug.  And the mic offered the same drug in a package that looked like ministry.
+
+The most excellent way is not immune to corruption.  Ministry can become its own addiction.  The person at the front of the room can start needing the room the way the room needs them, and that need will bend everything around it.  It will make you hold the mic longer.  It will make you take the stage more often.  It will make you believe you are essential, and the moment you believe you are essential you have stopped practicing the most excellent way and started practicing the hard way with better language.  Because the hard way is about power.  It has always been about power.  Duterte at the podium.  The chief in his conference room.  The officer behind the mask.  The dealer on the corner.  The preacher at the mic.  Power is power regardless of what you are selling and power is the thing that an addict must handle the way a burn victim handles fire.
+
+I gave the mic back.  That was the only time.
+
+Blessed are the meek.  Not blessed are the ones with the mic.  The beatitudes are not just the framework for the surrenderees.  They are the guardrails for the person at the front of the room.  If you are not poor in spirit when you stand up there, you should not be standing up there.  If the mic makes you feel powerful instead of terrified, something has gone wrong.
+
+---
+
+They thought they lacked a system.  The chief sat at that table and said nobody could fix addicts.  He thought he needed a program, a manual, a set of instructions from Manila.  He thought the answer was structural.  A system.  A framework.  Something you could print and distribute and implement across jurisdictions.
+
+They forgot that they themselves were the solution.
+
+The surrenderees helping the surrenderees.  That was the answer.  Not a program imported from the States or a manual written by people who had never been inside a holding cell.  The people closest to the problem were the ones most capable of addressing it.  The men in the blue shirts knew things about addiction and recovery and relapse and the streets and the fear and the shame that no program manual could contain.  They knew it because they had lived it.  The system Calamba needed was already sitting in the plastic chairs.
+
+Peer-led.  That is the clinical word for it.  I prefer the honest one.  Broken people helping broken people.  The man who surrendered last month sitting next to the man who surrendered yesterday and telling him what the first week looks like.  The man who relapsed sitting next to the man who has been clean for sixty days and neither one of them pretending the distance between them is permanent.  Recovery includes relapse.  A lot of it.  The distance between the bottom and the top is not a straight line and a system that gives you one chance — one surrender, one shot at compliance, one strike before the farm — that system is missing grace.  The hard way gives you one chance.  The most excellent way gives you the next morning.
+
+That is the difference between the hard way and the most excellent way.  The hard way is a system that discards people who fail within it.  The most excellent way is a community that expects failure and meets it with the same words it met the first day.  Nobody is broken beyond fix.  Not the first time they hear it and not the fifth time and not the twentieth.  The message does not change because the truth does not change.
+
+The contagion was the pattern, not the program.  It spread from Pansol to Mayapa to barangays whose names I did not write down because I was not thinking about a book, I was thinking about the faces.  The same plastic chairs.  The same fluorescent lights.  The same message.  The same call.  The rooms got bigger.  The hands kept going up.  Officers along the walls.  Surrenderees in the chairs.  The government organizing the meetings and the most excellent way filling them with something the government did not design and could not have designed because the government builds systems and the most excellent way is not a system.  It is people.
+
+One room at a time.  The same way the hard way spread, operation by operation, neighborhood by neighborhood.  The most excellent way spread the same way.  Barangay to barangay.  Not because someone in Manila ordered it.  Because someone in a blue shirt told someone else in a blue shirt that there was a meeting on Tuesday and the words in it were true.  The contagion was not the program.  The contagion was the honesty.  One surrenderee telling another that he was not too far gone, and meaning it, because last month he had been exactly where the other man was standing.
+
+They thought they lacked a system.  They forgot that they themselves were the solution.  The answer to the hard way was never going to come from a binder or a government program or five Americans on a ten-day trip.  The answer was in the holding cells.  It was in the blue shirts.  It was in the men who had been told they were unfixable sitting in plastic chairs in barangay halls and discovering that the person next to them had been told the same thing and was still breathing.  The infrastructure of recovery was not a document.  It was each other.
+
+The rooms got bigger.  The message did not change.
+
+And in every room, I noticed, people were reaching.  The same gesture I had seen in the basement.  Hands through bars, hands in the air, hands raised during the call.  It kept happening.  I did not yet understand what I was seeing.
+
+

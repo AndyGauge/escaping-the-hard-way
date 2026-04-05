@@ -1,0 +1,17 @@
+.lang-switcher {
+    text-align: center;
+    padding: 8px;
+    font-size: 0.9em;
+    border-bottom: 1px solid var(--sidebar-separator);
+    margin-bottom: 10px;
+}
+
+.lang-switcher a {
+    margin: 0 8px;
+    text-decoration: none;
+}
+
+.lang-switcher .active {
+    font-weight: bold;
+    text-decoration: underline;
+}

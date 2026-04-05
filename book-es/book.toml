@@ -1,0 +1,13 @@
+[book]
+authors = ["Andrew Gauger"]
+language = "es"
+multilingual = false
+src = "src"
+title = "Escapando del Camino Difícil: Toca y Suplica"
+description = "Una carta de amor a un dictador. Una memoria sobre diez días en Filipinas que cambiaron cómo una provincia trataba su problema de drogas — y una advertencia para América."
+
+[output.html]
+default-theme = "navy"
+site-url = "/escaping-the-hard-way/es/"
+git-repository-url = "https://github.com/andygauge/escaping-the-hard-way"
+additional-css = ["src/lang-switcher.css"]
