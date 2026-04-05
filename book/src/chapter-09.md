@@ -68,6 +68,10 @@ There is a dock.  There are names on lists.  The system has begun extrajudicial 
 
 What will you call it?
 
+And before you answer — when we confuse the killing of a CEO with social justice, our hard way is broken too.  The hard way does not become the most excellent way because you point it at someone richer than you.  A fist is a fist regardless of who it is swinging at.  Nobody is broken beyond fix means nobody.  The surrenderee.  The officer.  The dictator.  The CEO.  The moment you put someone outside the reach of agape because their title makes them acceptable to hate, you have built your own Tokhang.  You have just renamed it justice.
+
+The hard way has no political party.  It lives on the right and it lives on the left and both fists are fists.
+
 ---
 
 The normalization curve is the part that should terrify you.
@@ -139,7 +143,3 @@ The mirror is not a metaphor.  I held it up and I am showing you what is in it. 
 The question is not whether it can happen here.  It is happening here.
 
 Watching it happen makes me lace up my shoes.  I am getting ready to walk down those stairs.
-
-The book opened going down.  It closes going up.
-
-
