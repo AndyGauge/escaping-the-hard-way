@@ -1,7 +1,6 @@
 [book]
 authors = ["Andrew Gauger"]
 language = "tl"
-multilingual = false
 src = "src"
 title = "Pagtakas sa Mahirap na Paraan: Kumatok at Magmakaawa"
 description = "Isang liham ng pagmamahal sa isang diktador. Isang alaala tungkol sa sampung araw sa Pilipinas na nagbago kung paano trinato ng isang lalawigan ang problema sa droga — at isang babala para sa Amerika."

@@ -1,7 +1,6 @@
 [book]
 authors = ["Andrew Gauger"]
 language = "en"
-multilingual = false
 src = "src"
 title = "Escaping the Hard Way: Knock and Plead"
 description = "A love letter to a dictator. A memoir about ten days in the Philippines that changed how a province treated its drug problem — and a warning to America."
