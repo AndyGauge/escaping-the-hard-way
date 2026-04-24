@@ -3,10 +3,11 @@ import QRCode from 'qrcode';
 export const prerender = true;
 export const trailingSlash = 'never';
 
-const SITE_ORIGIN = 'https://andygauge.github.io';
+const SITE_ORIGIN = 'https://andygauge.github.io/escaping-the-hard-way';
 
 export async function load({ url }) {
-  // url.pathname already includes the SvelteKit base path (/agi) at prerender time.
+  // url.pathname already includes the SvelteKit base path (/plasticity) at prerender time.
+  // SITE_ORIGIN includes the repo prefix so QR codes resolve correctly on GitHub Pages.
   const pageUrl = SITE_ORIGIN + url.pathname;
   const qrSvg = await QRCode.toString(pageUrl, {
     type: 'svg',
