@@ -22,11 +22,6 @@ jobs:
         with:
           mdbook-version: 'latest'
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
       - name: Build English
         run: cd book && mdbook build
 
@@ -35,9 +30,6 @@ jobs:
 
       - name: Build Tagalog
         run: cd book-tl && mdbook build
-
-      - name: Build Plasticity
-        run: cd plasticity && npm install && npm run build
 
       - name: Combine builds
         run: |
@@ -49,8 +41,6 @@ jobs:
           cp -r book-es/book/* _site/es/
           mkdir -p _site/tl
           cp -r book-tl/book/* _site/tl/
-          mkdir -p _site/plasticity
-          cp -r plasticity/build/* _site/plasticity/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
