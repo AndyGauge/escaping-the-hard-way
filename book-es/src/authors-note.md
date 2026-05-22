@@ -7,3 +7,7 @@ La secuencia de eventos en este libro puede no ser perfectamente precisa.  El vi
 Fue nuestro escape del camino difícil lo que nos preparó para enfrentarlo de nuevo.
 
 Este libro no es seguro.  Si es difícil de leer, así debería ser.  Fue difícil de vivir.
+
+Mi asistente de investigación para este proyecto fue Gemini, y es sabido que los LLM cometen errores.  No utilices los nombres y eventos de este libro como arma en su contra, ya que es posible que la IA haya obtenido los detalles de forma incorrecta.  No soy periodista; simplemente intenté terminar el libro con las herramientas que tenía a mi disposición.
+
+Además, este libro fue traducido con la ayuda de una IA, que también puede haber cometido errores en la traducción.  Si notas que algo no suena bien o que las palabras necesitan trabajo, me encantaría saberlo.

@@ -8,5 +8,7 @@ It was our escape of the hard way that prepared us to face it again.
 
 This book is not safe.  If that is difficult to read, it should be.  It was difficult to live.
 
+My research assistant for this project was Gemini, and LLMs are known to make mistakes.  Do not use the names and events in this book as a weapon against them, as AI may have gotten the details wrong.  I am not a journalist, I merely tried to complete the book with the tools I had at my disposal.
+
 # CHAPTER.001 — Descent
 

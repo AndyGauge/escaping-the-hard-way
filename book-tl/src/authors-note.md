@@ -7,3 +7,7 @@ Maaaring hindi ganap na tama ang pagkakasunod-sunod ng mga pangyayari sa librong
 Ang pagtakas namin sa mahirap na paraan ang naghanda sa amin para harapin itong muli.
 
 Ang librong ito ay hindi ligtas.  Kung mahirap itong basahin, ganoon naman talaga dapat.  Mahirap itong isabuhay.
+
+Ang aking katulong sa pananaliksik para sa proyektong ito ay si Gemini, at kilala ang mga LLM sa paggawa ng mga pagkakamali.  Huwag gamitin ang mga pangalan at kaganapan sa librong ito bilang sandata laban sa kanila, dahil maaaring nagkamali ang AI sa mga detalye.  Hindi ako isang mamamahayag; sinubukan ko lang na tapusin ang libro gamit ang mga kasangkapan na mayroon ako.
+
+Bukod dito, isinalin ang librong ito sa tulong ng isang AI, na maaari ring nagkamali sa pagsasalin.  Kung may napansin kang salitang kailangan pang pagbutihin, nais kong malaman.
